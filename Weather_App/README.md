@@ -1,2 +1,4 @@
 # Weather_App
-I have a created a Weather showing app with HTML,CSS and Javascript. I have user an API from openweathermap.
+I created a Weather showing app with HTML, CSS, and Javascript. I have used an API from openweathermap.
+
+references: (https://www.youtube.com/@GreatStackDev)
